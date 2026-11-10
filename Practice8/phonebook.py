@@ -118,7 +118,7 @@ def delete_contact():
 
 def main():
     while True:
-        print("\n--- PRACTICE 8 PHONEBOOK ---")
+        print("\n PHONEBOOK")
         print("1. Search contacts")
         print("2. Add or update contact")
         print("3. Add multiple contacts")
