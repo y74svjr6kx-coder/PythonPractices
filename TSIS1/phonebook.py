@@ -435,7 +435,7 @@ def main():
     }
 
     while True:
-        print("\n--- TSIS 1 PHONEBOOK ---")
+        print("\n PHONEBOOK ")
         print("1. Filter by group")
         print("2. Search by email")
         print("3. Sort contacts")
