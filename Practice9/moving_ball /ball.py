@@ -13,7 +13,6 @@ class Ball:
     def move(self, dx, dy):
         new_x = self.x + dx
         new_y = self.y + dy
-        # Reject the entire key press if it would cross any boundary.
         if RADIUS <= new_x <= WIDTH - RADIUS and RADIUS <= new_y <= HEIGHT - RADIUS:
             self.x, self.y = new_x, new_y
 
