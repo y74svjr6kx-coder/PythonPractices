@@ -1,0 +1,1 @@
+Run: `python main.py` from this directory. Red circle has radius 25 px (50 x 50) on a white 640 x 480 window. Each arrow KEYDOWN moves 20 pixels; movement that would place any part of the ball outside the screen is ignored. ESC or close window exits. Frame rate capped at 60 FPS.
